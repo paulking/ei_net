@@ -1,5 +1,6 @@
 
 ==========================  E-I Net  ============================
+                      (release 4/23/2013)
 
 E-I Net is a spiking simulation of a neural network with excitatory
 and inhibitory neurons that can learn Gabor-like receptive fields
