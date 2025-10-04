@@ -1,5 +1,7 @@
 # E-I Net
 
+![E-I Net](https://www.pking.org/research/EINet/EI_Net_logo-600x200.png)
+
 E-I Net is a spiking neural circuit model coded in MATLAB that learns sparse code representations
 such as found in the brain. The simulator was developed in 2013.
 
