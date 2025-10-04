@@ -1,6 +1,8 @@
 # E-I Net
 
-E-I Net is a spiking neural circuit model that learns sparse code representations such as found in the brain.
+E-I Net is a spiking neural circuit model coded in MATLAB that learns sparse code representations
+such as found in the brain.
+
 E-I Net models aspects of the pattern-learning neural networks found the cerebral cortex by using separate
 populations of excitatory and inhibitory spiking neurons to find statistical patterns in an input information space.
 Using only unsupervised learning (i.e. no training or reference signal), E-I Net learns Gabor-like
